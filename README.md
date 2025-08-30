@@ -27,5 +27,5 @@ Pest_Severity	Level of pest infestation
 Soil_Moisture_%	Soil moisture percentage
 Soil_Type	Soil classification (e.g., loamy, clay, sandy)
 Health_Score	Rating from 1 (dying) to 5 (thriving)
-<img width="530" height="817" alt="image" src="https://github.com/user-attachments/assets/155c4cee-363b-4417-b837-3e53fcdf29ce" />
+<img width="987" height="817" alt="image" src="https://github.com/user-attachments/assets/9ca3182d-dca1-431c-b020-3eb9dbd675f3" />
 
